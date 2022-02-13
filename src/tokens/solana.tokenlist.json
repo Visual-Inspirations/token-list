@@ -108825,6 +108825,28 @@
       "extensions": {
         "website": "https://blocksto.ne/time-coin/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4P87vr6wi3nWKutgwZT9JpXXqSSA3b69we8ZYTWihG9v",
+      "symbol": "VISUAL",
+      "name": "Visual",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/Visual-Inspirations/token-list/54e30490116bd6cad015e32ec36ed9ac6283805c/vilogo450.png",
+      "tags": [
+        "Interactive NFT",
+        "Visual Inspirations",
+        "Interactive",
+        "NFT",
+        "Visual",
+        "Inspirations",
+        "NFT Marketplace"
+      ],
+      "extensions": {
+        "website": "https://vionline.com",
+        "twitter": "https://twitter.com/interactive_nft",
+        "discord": "https://discord.gg/AB5CvmfX"
+      }
     }
   ],
   "version": {
